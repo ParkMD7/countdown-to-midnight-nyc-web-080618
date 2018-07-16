@@ -1,11 +1,11 @@
 #write your code here
 
-def countdown(integer)
+def countdown(number)
   
  counter = 10
  
   until counter == 0
-    puts ""
+    puts "#{number} SECOND(S)!"
     counter -= 1
   end
   
