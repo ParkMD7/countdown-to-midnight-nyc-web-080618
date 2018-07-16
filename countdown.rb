@@ -2,6 +2,6 @@
 
 def countdown(integer)
   
-  counter = 
+ 
   
 end
