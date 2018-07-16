@@ -3,7 +3,9 @@
 def countdown(integer)
   
  counter = 10
-  loop do
+ 
+ until counter == 0
+  
     counter -= 1
   
 end
